@@ -1,3 +1,2 @@
 # test-repository
-
-This is a new file from my local computer. Remote
+This is a second example
